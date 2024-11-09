@@ -1,0 +1,58 @@
+/* body{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+} */
+
+#background{
+    width: 100%;
+    opacity: 70%;
+}
+
+.head{
+    position: relative;
+}
+
+.container{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding: 25px;
+    margin: 150px 530px ;
+    background: linear-gradient(to bottom, rgb(227, 108, 102), rgb(242, 242, 36), rgb(227, 108, 102));
+    opacity: 80%;
+    align-content: center;
+    height: 300px;
+    width: 180px;
+}
+
+.phone{
+    margin-bottom: 10px;
+    font-size: large;
+}
+
+#button{
+    text-decoration: none;
+}
+
+button{
+    width: 95%;
+    margin: 25px 0 5px 0;
+    cursor: pointer;
+}
+
+#newuser{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#image{
+    height: 80px;
+    border-radius: 40%;
+}
+
+.image{
+    text-align: center;
+    padding-bottom: 20px;
+}
